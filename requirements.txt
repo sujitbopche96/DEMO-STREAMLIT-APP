@@ -1,2 +1,3 @@
-ipykernal
+ipykernel
+
 streamlit
